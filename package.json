@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://github.com/GalaChernikova/news-react-app.git",
+  "homepage": "https://github.com/GalaChernikova/news-react-app.git",
   "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
