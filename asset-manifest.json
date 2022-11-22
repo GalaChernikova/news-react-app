@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/GalaChernikova/news-react-app.git/static/css/main.29a44023.css",
-    "main.js": "/GalaChernikova/news-react-app.git/static/js/main.d64cc30c.js",
+    "main.js": "/GalaChernikova/news-react-app.git/static/js/main.dc0383c0.js",
     "static/js/787.28cb0dcd.chunk.js": "/GalaChernikova/news-react-app.git/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.png": "/GalaChernikova/news-react-app.git/static/media/logo.cfcb0317008c94b220cc.png",
     "static/media/newsImg.png": "/GalaChernikova/news-react-app.git/static/media/newsImg.f2e53cdcd948eb1757ff.png",
     "index.html": "/GalaChernikova/news-react-app.git/index.html",
     "main.29a44023.css.map": "/GalaChernikova/news-react-app.git/static/css/main.29a44023.css.map",
-    "main.d64cc30c.js.map": "/GalaChernikova/news-react-app.git/static/js/main.d64cc30c.js.map",
+    "main.dc0383c0.js.map": "/GalaChernikova/news-react-app.git/static/js/main.dc0383c0.js.map",
     "787.28cb0dcd.chunk.js.map": "/GalaChernikova/news-react-app.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29a44023.css",
-    "static/js/main.d64cc30c.js"
+    "static/js/main.dc0383c0.js"
   ]
 }
